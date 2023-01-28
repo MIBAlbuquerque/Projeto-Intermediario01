@@ -18,7 +18,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 <br>
 
 <p align="center">
-  <img alt="projeto Flutuar" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Flutuar" src="./docs/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias

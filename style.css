@@ -56,6 +56,7 @@ footer a {
   color: #3F3D56;
   text-decoration: none;
 
+  
 }
 footer a +a {
   margin-left: 42px;
@@ -65,5 +66,4 @@ footer a +a {
   bottom: 0;
   left: 0;
   width: 100%;
-  justify-content: ;
 }
